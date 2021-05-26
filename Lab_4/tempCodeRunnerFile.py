@@ -1,0 +1,1 @@
+grandma = Person.select().where(Person.name == 'Grandma L.').get()
